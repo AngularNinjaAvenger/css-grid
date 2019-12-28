@@ -1,0 +1,18 @@
+.container{
+	margin:20px;
+	display: grid;
+	grid-template-columns: 200px 150px 20%;
+	grid-template-rows:70px 500px;
+}
+.el1{
+	background: green
+}
+.el2{
+	background: red
+}
+.el3{
+	background: yellow
+}
+.el4{
+	background: brown
+}
